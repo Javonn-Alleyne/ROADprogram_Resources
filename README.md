@@ -1,0 +1,5 @@
+![https://swcarpentry.github.io/sql-novice-survey/]
+![https://swcarpentry.github.io/shell-novice/]
+![https://swcarpentry.github.io/git-novice/]
+![https://swcarpentry.github.io/python-novice-inflammation/]
+![https://swcarpentry.github.io/python-novice-gapminder/]
