@@ -15,3 +15,4 @@ This command adds the file or files to the curret working directory. The file is
 
 # HELP!!!
 [**For more git commands check here**](https://www.hostinger.com/tutorials/basic-git-commands)
+[**Git step up steps**](https://swcarpentry.github.io/git-novice/)
