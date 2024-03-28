@@ -4,5 +4,3 @@
 - [git bash shell](https://swcarpentry.github.io/git-novice/)
 - [python-inflammation](https://swcarpentry.github.io/python-novice-inflammation/)
 - [pythin-gapminder](https://swcarpentry.github.io/python-novice-gapminder/)
-
-[[Create Push Pull work Flow.md]]
