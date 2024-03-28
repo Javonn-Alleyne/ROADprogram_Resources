@@ -5,4 +5,4 @@
 - [python-inflammation](https://swcarpentry.github.io/python-novice-inflammation/)
 - [pythin-gapminder](https://swcarpentry.github.io/python-novice-gapminder/)
 
-[test link here](https://github.com/Javonn-Alleyne/ROADprogram_Resources/blob/main/Push%20Pull%20work%20Flow.md)
+[Push and Pull](https://github.com/Javonn-Alleyne/ROADprogram_Resources/blob/main/Push%20Pull%20work%20Flow.md)
