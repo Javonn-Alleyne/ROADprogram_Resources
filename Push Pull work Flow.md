@@ -8,6 +8,8 @@ Allows for asynchronous work to be done. Allows for work to be done on multiple 
 - git commit  -m “message” - commit changes to the file
 - git push - push to the repository
 
+- git checkout JAbranch - to switch to my branch
+
 Copy and paste link that was generated and press “enter”
 
 Go to GitHub in your copy of the repository
