@@ -10,13 +10,9 @@ Allows for asynchronous work to be done. Allows for work to be done on multiple 
 
 - git checkout JAbranch - to switch to my branch
 
-Copy and paste link that was generated and press “enter”
+Copy - git push --set-upstream origin "new branch name"
 
-Go to GitHub in your copy of the repository
-
-Create pull request
-
-Go back to main branch update it with sync
+Create pull request on the new branch to sync the branches
 
 Go to local console
 - git branch - to see all branches
