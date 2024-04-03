@@ -18,3 +18,6 @@ Go to local console
 - git branch - to see all branches
 - git checkout “name of branch” - to switch to the main branch
 - git pull
+
+# Extra help
+[here](https://medium.com/@Ariobarxan/recovering-a-lost-commit-in-git-103a48bf8a16)
