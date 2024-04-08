@@ -1,9 +1,17 @@
 # How to fix a problem
 ## divergin branches
-occurs when trying to push to the main repo but your repo is behind in commints
+Occurs when trying to push to the main repo but your forked repo is behind in commints to the main repo
+`git pull` should resolve issue
 
-git config pull.rebase false
+# if not then
 
-make changes to files on your end
+`git config pull.rebase false`
 
-continue with the git add, commit, push process
+# if not then
+
+`git merge main` - merge different branch into main
+
+make changes to files on your end - add or remove files in the forked repo to match the main repo
+
+continue with the `git add`, `git commit -m`, `git push` process
+
