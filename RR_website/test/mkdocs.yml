@@ -6,13 +6,16 @@ repo_name: Javonn-Alleyne/ROADprogram_Resources
 # page tree
 nav:
   - Home: index.md
-  - About: about.md
-  - Blog: Blog/Posts/test1.md
+  - 'Info': 
+    - 'python3': 'Resources/Posts/python3.md'
+    - 'cheetsheet': 'Resources/Posts/cheetsheet.md'
+    - 'workflows' : 'Resources/Posts/workflows.md'
 
 # config
 theme: 
   name: material
-  
+
+  # dark or light theme
   palette:
   # light mode
     - media: "(prefers-color-scheme: light)"
@@ -31,11 +34,35 @@ theme:
       primary: deep purple
       accent: indigo
 
+  #language
   font: 
-    text: Bebas Neue    
-
-  features:
-    - naviagtion.tabs
+    # text: Bebas Neue 
+    text: Rajdhani   
+    code: Prompt
       
   icon:
     repo: fontawesome/brands/github
+
+  features:
+    - navigation.header
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.path
+    - navigation.footer
+    - navigation.top
+
+#plugins
+plugins:
+  - search
+
+#extras
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Italian
+      link: /it/
+      lang: it
+  
+
