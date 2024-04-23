@@ -1,0 +1,41 @@
+# site info:
+site_name: Road Resources Web Page
+repo_url: https://github.com/Javonn-Alleyne/ROADprogram_Resources
+repo_name: Javonn-Alleyne/ROADprogram_Resources
+
+# page tree
+nav:
+  - Home: index.md
+  - About: about.md
+  - Blog: Blog/Posts/test1.md
+
+# config
+theme: 
+  name: material
+  
+  palette:
+  # light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Gothic
+      primary: blue
+      accent: red
+    # dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: My Eyes
+      primary: deep purple
+      accent: indigo
+
+  font: 
+    text: Bebas Neue    
+
+  features:
+    - naviagtion.tabs
+      
+  icon:
+    repo: fontawesome/brands/github
