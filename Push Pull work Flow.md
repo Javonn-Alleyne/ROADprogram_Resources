@@ -1,22 +1,30 @@
 # Push Pull Work Flow
 Allows for asynchronous work to be done. Allows for work to be done on multiple branches
-- Create a new branch on the repository
+
+## Why work with branches
+can make changes without destroying the main build.
+if errors occur on the main build, it would have to be revert or scrapped.
+branches avoid this problem
+
+# How To?
+## first check status
 - git status - status on branch
-- git checkout -b “branch name” (no spaces) - create a new branch
+- git checkout "branch name" - to switch branches (only if switching to branch)
+
+## Create a new branch on the repository
+- git checkout -b “branch name” (no spaces) - creates a new branch
 - git status - to see the status on new branch
-- git add .
-- git commit  -m “message” - commit changes to the file
+
+## Pushing files to repo
+- git add . - adds current files in the present working directory
+- git commit  -m “_**type message here**_” - creates a snapshot in time on the changes made to the files being added to the repo
 - git push - push to the repository
+- Copy - git push --set-upstream origin "new branch name" - allows the branch to be seen on Github
 
-Copy and paste link that was generated and press “enter”
+## Github
+- Create pull request on the new branch to sync the branches
+- merge new branch with main branch
 
-Go to GitHub in your copy of the repository
+# Extra help
+[here](https://medium.com/@Ariobarxan/recovering-a-lost-commit-in-git-103a48bf8a16)
 
-Create pull request
-
-Go back to main branch update it with sync
-
-Go to local console
-- git branch - to see all branches
-- git checkout “name of branch” - to switch to the main branch
-- git pull
