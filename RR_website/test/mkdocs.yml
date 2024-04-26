@@ -10,6 +10,8 @@ nav:
     - 'python3': 'Resources/Posts/python3.md'
     - 'cheetsheet': 'Resources/Posts/cheetsheet.md'
     - 'workflows' : 'Resources/Posts/workflows.md'
+  - Setup: setup_pro.md
+  - About: about.md
 
 # config
 theme: 
@@ -50,7 +52,8 @@ theme:
     - navigation.path
     - navigation.footer
     - navigation.top
-
+    - search.suggest
+    - search.highlight
 #plugins
 plugins:
   - search
