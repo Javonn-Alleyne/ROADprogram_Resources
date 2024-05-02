@@ -50,6 +50,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - navigation.path
+    - toc.integrate
     - navigation.footer
     - navigation.top
     - search.suggest
@@ -68,4 +69,5 @@ extra:
       link: /it/
       lang: it
   
-
+copyright:
+  Copyright &copy; 2024 Javonn Alleyne
