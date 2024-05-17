@@ -1,0 +1,270 @@
+
+Lightness / Tone Response				
+Patch No. 10	****	96.00	96.99 98.00	100.00
+Patch No. 11	****	90.83	92.20 92.83	94.83
+Patch No. 12	****	86.17	87.74 88.17	90.17
+Patch No. 13	****	80.97	82.65 82.97	84.97
+Patch No. 14	****	70.68	72.62 72.68	74.68
+Patch No. 15	****	60.70	62.44 62.70	64.70
+Patch No. 16	****	47.31	49.54 49.31	51.31
+Patch No. 17	****	36.76	39.81 38.76	40.76
+Patch No. 18	****	26.25	28.24 28.25	30.25
+Patch No. 19	****	14.53	17.38 16.53	18.53
+Patch No. 20	***	6.79 9.79	8.70 11.79	16.79 13.79
+Patch No. 21	****	3.08	4.70 5.08	7.08
+ 	 	 	 	 
+Delta Ea*b* / White Balance				
+Patch No. 10	***	0.00 0.00	2.25	4.00 2.00
+Patch No. 11	****	0.00	1.72	2.00
+Patch No. 12	***	0.00 0.00	2.19	4.00 2.00
+Patch No. 13	***	0.00 0.00	2.01	4.00 2.00
+Patch No. 14	***	0.00 0.00	2.33	4.00 2.00
+Patch No. 15	***	0.00 0.00	2.13	4.00 2.00
+Patch No. 16	****	0.00	1.74	2.00
+Patch No. 17	****	0.00	1.76	2.00
+Patch No. 18	****	0.00	1.21	2.00
+Patch No. 19	****	0.00	1.18	2.00
+Patch No. 20	****	0.00	0.91	2.00
+Patch No. 21	****	0.00	0.39	2.00
+ 	 	 	 	 
+Lightness Uniformity				
+Lightness	****	0.00	0.01	0.01
+ 	 	 	 	 
+Avg & 90% Color Accuracy - DeltaE 2000				
+All Patches				
+Max	****	0.00	4.73	6.00
+Mean	****	0.00	2.09	3.00
+90th Percentile	****	0.00	3.70	4.00
+Patch No. 1			2.99	
+Patch No. 2			2.13	
+Patch No. 3			0.81	
+Patch No. 4			2.32	
+Patch No. 5			1.93	
+Patch No. 6			0.97	
+Patch No. 7	90%		4.73	
+Patch No. 8			1.36	
+Patch No. 9			0.81	
+Patch No. 10			2.33	
+Patch No. 11			1.77	
+Patch No. 12			2.20	
+Patch No. 13			2.02	
+Patch No. 14			2.33	
+Patch No. 15			2.14	
+Patch No. 16			1.76	
+Patch No. 17			1.98	
+Patch No. 18			1.21	
+Patch No. 19			1.31	
+Patch No. 20			2.15	
+Patch No. 21			0.46	
+Patch No. 22			2.23	
+Patch No. 23			3.42	
+Patch No. 24	90%		3.98	
+Patch No. 25			2.32	
+Patch No. 26			2.74	
+Patch No. 27			1.11	
+Patch No. 28	90%		4.21	
+Patch No. 29			0.98	
+Patch No. 30			1.99	
+ 	 	 	 	 
+Color - Registration				
+Horizontal	***			
+CC Green-Red	****	-0.33	0.06	0.33
+CC Green-Blue	****	-0.33	-0.01	0.33
+CC Blue-Red	****	-0.33	0.08	0.33
+TL Green-Red	****	-0.33	-0.01	0.33
+TL Green-Blue	****	-0.33	0.23	0.33
+TL Blue-Red	****	-0.33	-0.24	0.33
+TR Green-Red	****	-0.33	0.00	0.33
+TR Green-Blue	****	-0.33	0.29	0.33
+TR Blue-Red	****	-0.33	-0.29	0.33
+BL Green-Red	****	-0.33	0.03	0.33
+BL Green-Blue	****	-0.33	-0.30	0.33
+BL Blue-Red	***	-0.50 -0.33	0.34 0.00	0.50 0.33
+BR Green-Red	****	-0.33	0.06	0.33
+BR Green-Blue	****	-0.33	-0.31	0.33
+BR Blue-Red	***	-0.50 -0.33	0.37 0.00	0.50 0.33
+Vertical	****			
+CC Green-Red	****	-0.33	-0.03	0.33
+CC Green-Blue	****	-0.33	-0.02	0.33
+CC Blue-Red	****	-0.33	-0.01	0.33
+TL Green-Red	****	-0.33	-0.03	0.33
+TL Green-Blue	****	-0.33	0.14	0.33
+TL Blue-Red	****	-0.33	-0.16	0.33
+TR Green-Red	****	-0.33	0.01	0.33
+TR Green-Blue	****	-0.33	-0.11	0.33
+TR Blue-Red	****	-0.33	0.11	0.33
+BL Green-Red	****	-0.33	-0.03	0.33
+BL Green-Blue	****	-0.33	0.05	0.33
+BL Blue-Red	****	-0.33	-0.08	0.33
+BR Green-Red	****	-0.33	0.01	0.33
+BR Green-Blue	****	-0.33	-0.19	0.33
+BR Blue-Red	****	-0.33	0.19	0.33
+ 	 	 	 	 
+Sampling Frequency - Resolution				
+Vert Sampling Freq	***	588.00 594.00	593.38 600.00	-
+Horz Sampling Freq	***	588.00 594.00	593.24 600.00	-
+ 	 	 	 	 
+Reproduction Scale Accuracy				
+Vert Sampling Freq	***	588.00 594.00	593.38 600.00	612.00 606.00
+Horz Sampling Freq	***	588.00 594.00	593.24 600.00	612.00 606.00
+ 	 	 	 	 
+10% SFR - Sampling Efficiency				
+Center - Vert	****			
+Red	****	0.90/534.05 dpi	1.01/601.55 dpi	
+Green	****	0.90/534.05 dpi	1.03/611.49 dpi	
+Blue	****	0.90/534.05 dpi	1.03/613.38 dpi	
+Lightness	****	0.90/534.05 dpi	1.03/610.85 dpi	
+Red Nyquist Amp	****		0.10	0.20
+Green Nyquist Amp	****		0.12	0.20
+Blue Nyquist Amp	****		0.12	0.20
+Lightness Nyquist Amp	****		0.12	0.20
+Top Left - Vert	***			
+Red	****	0.90/534.05 dpi	0.92/543.15 dpi	
+Green	****	0.90/534.05 dpi	0.97/572.89 dpi	
+Blue	****	0.90/534.05 dpi	0.97/577.70 dpi	
+Lightness	****	0.90/534.05 dpi	0.94/555.02 dpi	
+Red Nyquist Amp	****		0.06	0.20
+Green Nyquist Amp	****		0.08	0.20
+Blue Nyquist Amp	****		0.08	0.20
+Lightness Nyquist Amp	****		0.07	0.20
+Top Right - Vert	***			
+Red	***	0.80/474.71 dpi 0.90/534.05 dpi	0.86/513.02 dpi	
+Green	***	0.80/474.71 dpi 0.90/534.05 dpi	0.88/522.26 dpi	
+Blue	***	0.80/474.71 dpi 0.90/534.05 dpi	0.88/523.80 dpi	
+Lightness	***	0.80/474.71 dpi 0.90/534.05 dpi	0.88/519.72 dpi	
+Red Nyquist Amp	****		0.04	0.20
+Green Nyquist Amp	****		0.04	0.20
+Blue Nyquist Amp	****		0.05	0.20
+Lightness Nyquist Amp	****		0.04	0.20
+Bottom Left - Vert	***			
+Red	****	0.90/534.05 dpi	0.95/565.79 dpi	
+Green	****	0.90/534.05 dpi	1.01/599.65 dpi	
+Blue	****	0.90/534.05 dpi	1.01/600.05 dpi	
+Lightness	****	0.90/534.05 dpi	0.98/582.02 dpi	
+Red Nyquist Amp	****		0.08	0.20
+Green Nyquist Amp	****		0.10	0.20
+Blue Nyquist Amp	****		0.10	0.20
+Lightness Nyquist Amp	****		0.10	0.20
+Bottom Right - Vert	***			
+Red	***	0.80/474.71 dpi 0.90/534.05 dpi	0.89/530.28 dpi	
+Green	***	0.80/474.71 dpi 0.90/534.05 dpi	0.90/536.96 dpi	
+Blue	***	0.80/474.71 dpi 0.90/534.05 dpi	0.90/533.43 dpi	
+Lightness	***	0.80/474.71 dpi 0.90/534.05 dpi	0.90/532.23 dpi	
+Red Nyquist Amp	****		0.05	0.20
+Green Nyquist Amp	****		0.06	0.20
+Blue Nyquist Amp	****		0.05	0.20
+Lightness Nyquist Amp	****		0.05	0.20
+Center - Horz	****			
+Red	****	0.90/533.91 dpi	0.98/579.97 dpi	
+Green	****	0.90/533.91 dpi	1.05/625.61 dpi	
+Blue	****	0.90/533.91 dpi	1.05/622.53 dpi	
+Lightness	****	0.90/533.91 dpi	1.05/622.64 dpi	
+Red Nyquist Amp	****		0.10	0.20
+Green Nyquist Amp	****		0.11	0.20
+Blue Nyquist Amp	****		0.11	0.20
+Lightness Nyquist Amp	****		0.11	0.20
+Top Left - Horz	***			
+Red	***	0.80/474.59 dpi 0.90/533.91 dpi	0.88/519.15 dpi	
+Green	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/527.59 dpi	
+Blue	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/530.90 dpi	
+Lightness	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/526.24 dpi	
+Red Nyquist Amp	****		0.04	0.20
+Green Nyquist Amp	****		0.04	0.20
+Blue Nyquist Amp	****		0.04	0.20
+Lightness Nyquist Amp	****		0.04	0.20
+Top Right - Horz	****			
+Red	****	0.90/533.91 dpi	0.95/565.73 dpi	
+Green	****	0.90/533.91 dpi	1.00/594.71 dpi	
+Blue	****	0.90/533.91 dpi	1.00/594.31 dpi	
+Lightness	****	0.90/533.91 dpi	0.97/574.92 dpi	
+Red Nyquist Amp	****		0.09	0.20
+Green Nyquist Amp	****		0.10	0.20
+Blue Nyquist Amp	****		0.10	0.20
+Lightness Nyquist Amp	****		0.09	0.20
+Bottom Left - Horz	***			
+Red	***	0.80/474.59 dpi 0.90/533.91 dpi	0.88/521.83 dpi	
+Green	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/526.28 dpi	
+Blue	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/530.14 dpi	
+Lightness	***	0.80/474.59 dpi 0.90/533.91 dpi	0.88/524.43 dpi	
+Red Nyquist Amp	****		0.03	0.20
+Green Nyquist Amp	****		0.04	0.20
+Blue Nyquist Amp	****		0.03	0.20
+Lightness Nyquist Amp	****		0.03	0.20
+Bottom Right - Horz	****			
+Red	****	0.90/533.91 dpi	0.99/586.41 dpi	
+Green	****	0.90/533.91 dpi	1.02/603.72 dpi	
+Blue	****	0.90/533.91 dpi	1.01/599.10 dpi	
+Lightness	****	0.90/533.91 dpi	1.01/601.90 dpi	
+Red Nyquist Amp	****		0.10	0.20
+Green Nyquist Amp	****		0.11	0.20
+Blue Nyquist Amp	****		0.11	0.20
+Lightness Nyquist Amp	****		0.11	0.20
+Max SFR Amplitude	****	0.00	1.00	1.00
+ 	 	 	 	 
+50% SFR				
+Center - Vert	****			
+Red	****	0.45	0.59	0.65
+Green	****	0.45	0.62	0.65
+Blue	****	0.45	0.63	0.65
+Lightness	****	0.45	0.61	0.65
+Top Left - Vert	****			
+Red	****	0.45	0.51	0.65
+Green	****	0.45	0.57	0.65
+Blue	****	0.45	0.58	0.65
+Lightness	****	0.45	0.56	0.65
+Top Right - Vert	****			
+Red	****	0.45	0.50	0.65
+Green	****	0.45	0.54	0.65
+Blue	****	0.45	0.56	0.65
+Lightness	****	0.45	0.53	0.65
+Bottom Left - Vert	****			
+Red	****	0.45	0.56	0.65
+Green	****	0.45	0.61	0.65
+Blue	****	0.45	0.61	0.65
+Lightness	****	0.45	0.60	0.65
+Bottom Right - Vert	****			
+Red	****	0.45	0.56	0.65
+Green	****	0.45	0.61	0.65
+Blue	****	0.45	0.60	0.65
+Lightness	****	0.45	0.60	0.65
+Center - Horz	****			
+Red	****	0.45	0.59	0.65
+Green	****	0.45	0.62	0.65
+Blue	****	0.45	0.63	0.65
+Lightness	****	0.45	0.61	0.65
+Top Left - Horz	****			
+Red	****	0.45	0.58	0.65
+Green	****	0.45	0.62	0.65
+Blue	****	0.45	0.63	0.65
+Lightness	****	0.45	0.60	0.65
+Top Right - Horz	****			
+Red	****	0.45	0.63	0.65
+Green	****	0.45	0.65	0.65
+Blue	***	0.35 0.45	0.66	0.75 0.65
+Lightness	****	0.45	0.65	0.65
+Bottom Left - Horz	****			
+Red	****	0.45	0.60	0.65
+Green	****	0.45	0.61	0.65
+Blue	****	0.45	0.62	0.65
+Lightness	****	0.45	0.61	0.65
+Bottom Right - Horz	***			
+Red	****	0.45	0.65	0.65
+Green	***	0.35 0.45	0.66	0.75 0.65
+Blue	***	0.35 0.45	0.67	0.75 0.65
+Lightness	***	0.35 0.45	0.66	0.75 0.65
+ 	 	 	 	 
+L* Noise				
+Patch No. 10	****	0.00	0.25	1.00
+Patch No. 11	****	0.00	0.27	1.00
+Patch No. 12	****	0.00	0.28	1.00
+Patch No. 13	****	0.00	0.27	1.00
+Patch No. 14	****	0.00	0.30	1.00
+Patch No. 15	****	0.00	0.30	1.00
+Patch No. 16	****	0.00	0.32	1.00
+Patch No. 17	****	0.00	0.34	1.00
+Patch No. 18	****	0.00	0.40	1.00
+Patch No. 19	****	0.00	0.54	1.00
+Patch No. 20	****	0.00	0.65	1.00
+Patch No. 21	****	0.00	0.45	1.00
+ 	 	 	 	 
+

@@ -1,0 +1,9 @@
+This is Sample text 
+I should be able to see all of my lines for this file
+if not 
+i did it wrong
+
+find me.the dot
+
+rats
+bats

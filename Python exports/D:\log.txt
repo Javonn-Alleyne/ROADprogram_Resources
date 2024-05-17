@@ -1,0 +1,419 @@
+Header Data:
+Golden Thread Version:	10.35.0.0 Cloud
+Image Name:	Ashley_Tamisha_Rasheda__D01025__D01025__May 16 2024__Station4leftcamera__9-38 AM.tif
+Date & Time:	05/16/2024 10:43:39
+Profile Name:	Bound Volumes Rare
+Description:	
+Target Type:	Device
+Images Folder:	images
+Production Mode:	Automatic
+Operator:	
+System Name:	
+Location:	
+Test Mode:	
+Camera:	
+Lens:	
+Lighting:	d65
+Color Model:	Adobe RGB 1998
+Adaptation:	von Kries
+Comments:	
+
+79.2%	4 Star Compliant
+
+Reference ID:	D01025			
+Lab Data Source:	QR Code			
+Lab Data:				
+Patch	L	a	b	Density
+1	39.20	13.34	13.89	999.00
+2	65.86	18.70	18.53	999.00
+3	49.97	-4.08	-22.87	999.00
+4	43.74	-13.26	22.64	999.00
+5	55.67	10.54	-24.71	999.00
+6	70.94	-33.69	-0.27	999.00
+7	63.05	34.76	57.69	999.00
+8	41.03	10.11	-45.64	999.00
+9	52.24	49.02	17.08	999.00
+10	98.00	-0.80	2.01	0.02
+11	92.83	-0.60	1.64	0.08
+12	88.17	-0.89	0.98	0.14
+13	82.97	-0.91	0.65	0.21
+14	72.68	-1.53	0.41	0.35
+15	62.70	-1.34	0.07	0.51
+16	49.31	-0.99	-0.16	0.75
+17	38.76	-0.92	-0.04	0.98
+18	28.25	-0.43	-0.08	1.26
+19	16.53	-0.62	-0.80	1.66
+20	11.79	-0.26	-0.75	1.86
+21	5.08	0.25	1.13	2.25
+22	31.34	23.58	-21.24	999.00
+23	72.87	-23.69	57.35	999.00
+24	72.90	18.94	68.15	999.00
+25	31.20	12.95	-48.03	999.00
+26	55.87	-39.80	31.22	999.00
+27	43.28	51.48	29.34	999.00
+28	82.55	3.18	79.70	999.00
+29	52.74	49.54	-13.55	999.00
+30	51.24	-27.11	-28.33	999.00
+
+Measurement	Pass Fail	Lower Limit	Value Aim	Upper Limit
+Lightness / Tone Response				
+Patch No. 10	****	96.00	96.99 98.00	100.00
+Patch No. 11	****	90.83	92.20 92.83	94.83
+Patch No. 12	****	86.17	87.74 88.17	90.17
+Patch No. 13	****	80.97	82.65 82.97	84.97
+Patch No. 14	****	70.68	72.62 72.68	74.68
+Patch No. 15	****	60.70	62.44 62.70	64.70
+Patch No. 16	****	47.31	49.54 49.31	51.31
+Patch No. 17	****	36.76	39.81 38.76	40.76
+Patch No. 18	****	26.25	28.24 28.25	30.25
+Patch No. 19	****	14.53	17.38 16.53	18.53
+Patch No. 20	***	6.79 9.79	8.70 11.79	16.79 13.79
+Patch No. 21	****	3.08	4.70 5.08	7.08
+ 	 	 	 	 
+Delta Ea*b* / White Balance				
+Patch No. 10	***	0.00 0.00	2.25	4.00 2.00
+Patch No. 11	****	0.00	1.72	2.00
+Patch No. 12	***	0.00 0.00	2.19	4.00 2.00
+Patch No. 13	***	0.00 0.00	2.01	4.00 2.00
+Patch No. 14	***	0.00 0.00	2.33	4.00 2.00
+Patch No. 15	***	0.00 0.00	2.13	4.00 2.00
+Patch No. 16	****	0.00	1.74	2.00
+Patch No. 17	****	0.00	1.76	2.00
+Patch No. 18	****	0.00	1.21	2.00
+Patch No. 19	****	0.00	1.18	2.00
+Patch No. 20	****	0.00	0.91	2.00
+Patch No. 21	****	0.00	0.39	2.00
+ 	 	 	 	 
+Lightness Uniformity				
+Lightness	****	0.00	0.01	0.01
+ 	 	 	 	 
+Avg & 90% Color Accuracy - DeltaE 2000				
+All Patches				
+Max	****	0.00	4.73	6.00
+Mean	****	0.00	2.09	3.00
+90th Percentile	****	0.00	3.70	4.00
+Patch No. 1			2.99	
+Patch No. 2			2.13	
+Patch No. 3			0.81	
+Patch No. 4			2.32	
+Patch No. 5			1.93	
+Patch No. 6			0.97	
+Patch No. 7	90%		4.73	
+Patch No. 8			1.36	
+Patch No. 9			0.81	
+Patch No. 10			2.33	
+Patch No. 11			1.77	
+Patch No. 12			2.20	
+Patch No. 13			2.02	
+Patch No. 14			2.33	
+Patch No. 15			2.14	
+Patch No. 16			1.76	
+Patch No. 17			1.98	
+Patch No. 18			1.21	
+Patch No. 19			1.31	
+Patch No. 20			2.15	
+Patch No. 21			0.46	
+Patch No. 22			2.23	
+Patch No. 23			3.42	
+Patch No. 24	90%		3.98	
+Patch No. 25			2.32	
+Patch No. 26			2.74	
+Patch No. 27			1.11	
+Patch No. 28	90%		4.21	
+Patch No. 29			0.98	
+Patch No. 30			1.99	
+ 	 	 	 	 
+Color - Registration				
+Horizontal	***			
+CC Green-Red	****	-0.33	0.06	0.33
+CC Green-Blue	****	-0.33	-0.01	0.33
+CC Blue-Red	****	-0.33	0.08	0.33
+TL Green-Red	****	-0.33	-0.01	0.33
+TL Green-Blue	****	-0.33	0.23	0.33
+TL Blue-Red	****	-0.33	-0.24	0.33
+TR Green-Red	****	-0.33	0.00	0.33
+TR Green-Blue	****	-0.33	0.29	0.33
+TR Blue-Red	****	-0.33	-0.29	0.33
+BL Green-Red	****	-0.33	0.03	0.33
+BL Green-Blue	****	-0.33	-0.30	0.33
+BL Blue-Red	***	-0.50 -0.33	0.34 0.00	0.50 0.33
+BR Green-Red	****	-0.33	0.06	0.33
+BR Green-Blue	****	-0.33	-0.31	0.33
+BR Blue-Red	***	-0.50 -0.33	0.37 0.00	0.50 0.33
+Vertical	****			
+CC Green-Red	****	-0.33	-0.03	0.33
+CC Green-Blue	****	-0.33	-0.02	0.33
+CC Blue-Red	****	-0.33	-0.01	0.33
+TL Green-Red	****	-0.33	-0.03	0.33
+TL Green-Blue	****	-0.33	0.14	0.33
+TL Blue-Red	****	-0.33	-0.16	0.33
+TR Green-Red	****	-0.33	0.01	0.33
+TR Green-Blue	****	-0.33	-0.11	0.33
+TR Blue-Red	****	-0.33	0.11	0.33
+BL Green-Red	****	-0.33	-0.03	0.33
+BL Green-Blue	****	-0.33	0.05	0.33
+BL Blue-Red	****	-0.33	-0.08	0.33
+BR Green-Red	****	-0.33	0.01	0.33
+BR Green-Blue	****	-0.33	-0.19	0.33
+BR Blue-Red	****	-0.33	0.19	0.33
+ 	 	 	 	 
+Sampling Frequency - Resolution				
+Vert Sampling Freq	***	588.00 594.00	593.38 600.00	-
+Horz Sampling Freq	***	588.00 594.00	593.24 600.00	-
+ 	 	 	 	 
+Reproduction Scale Accuracy				
+Vert Sampling Freq	***	588.00 594.00	593.38 600.00	612.00 606.00
+Horz Sampling Freq	***	588.00 594.00	593.24 600.00	612.00 606.00
+ 	 	 	 	 
+10% SFR - Sampling Efficiency				
+Center - Vert	****			
+Red	****	0.90/534.05 dpi	1.01/601.55 dpi	
+Green	****	0.90/534.05 dpi	1.03/611.49 dpi	
+Blue	****	0.90/534.05 dpi	1.03/613.38 dpi	
+Lightness	****	0.90/534.05 dpi	1.03/610.85 dpi	
+Red Nyquist Amp	****		0.10	0.20
+Green Nyquist Amp	****		0.12	0.20
+Blue Nyquist Amp	****		0.12	0.20
+Lightness Nyquist Amp	****		0.12	0.20
+Top Left - Vert	***			
+Red	****	0.90/534.05 dpi	0.92/543.15 dpi	
+Green	****	0.90/534.05 dpi	0.97/572.89 dpi	
+Blue	****	0.90/534.05 dpi	0.97/577.70 dpi	
+Lightness	****	0.90/534.05 dpi	0.94/555.02 dpi	
+Red Nyquist Amp	****		0.06	0.20
+Green Nyquist Amp	****		0.08	0.20
+Blue Nyquist Amp	****		0.08	0.20
+Lightness Nyquist Amp	****		0.07	0.20
+Top Right - Vert	***			
+Red	***	0.80/474.71 dpi 0.90/534.05 dpi	0.86/513.02 dpi	
+Green	***	0.80/474.71 dpi 0.90/534.05 dpi	0.88/522.26 dpi	
+Blue	***	0.80/474.71 dpi 0.90/534.05 dpi	0.88/523.80 dpi	
+Lightness	***	0.80/474.71 dpi 0.90/534.05 dpi	0.88/519.72 dpi	
+Red Nyquist Amp	****		0.04	0.20
+Green Nyquist Amp	****		0.04	0.20
+Blue Nyquist Amp	****		0.05	0.20
+Lightness Nyquist Amp	****		0.04	0.20
+Bottom Left - Vert	***			
+Red	****	0.90/534.05 dpi	0.95/565.79 dpi	
+Green	****	0.90/534.05 dpi	1.01/599.65 dpi	
+Blue	****	0.90/534.05 dpi	1.01/600.05 dpi	
+Lightness	****	0.90/534.05 dpi	0.98/582.02 dpi	
+Red Nyquist Amp	****		0.08	0.20
+Green Nyquist Amp	****		0.10	0.20
+Blue Nyquist Amp	****		0.10	0.20
+Lightness Nyquist Amp	****		0.10	0.20
+Bottom Right - Vert	***			
+Red	***	0.80/474.71 dpi 0.90/534.05 dpi	0.89/530.28 dpi	
+Green	***	0.80/474.71 dpi 0.90/534.05 dpi	0.90/536.96 dpi	
+Blue	***	0.80/474.71 dpi 0.90/534.05 dpi	0.90/533.43 dpi	
+Lightness	***	0.80/474.71 dpi 0.90/534.05 dpi	0.90/532.23 dpi	
+Red Nyquist Amp	****		0.05	0.20
+Green Nyquist Amp	****		0.06	0.20
+Blue Nyquist Amp	****		0.05	0.20
+Lightness Nyquist Amp	****		0.05	0.20
+Center - Horz	****			
+Red	****	0.90/533.91 dpi	0.98/579.97 dpi	
+Green	****	0.90/533.91 dpi	1.05/625.61 dpi	
+Blue	****	0.90/533.91 dpi	1.05/622.53 dpi	
+Lightness	****	0.90/533.91 dpi	1.05/622.64 dpi	
+Red Nyquist Amp	****		0.10	0.20
+Green Nyquist Amp	****		0.11	0.20
+Blue Nyquist Amp	****		0.11	0.20
+Lightness Nyquist Amp	****		0.11	0.20
+Top Left - Horz	***			
+Red	***	0.80/474.59 dpi 0.90/533.91 dpi	0.88/519.15 dpi	
+Green	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/527.59 dpi	
+Blue	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/530.90 dpi	
+Lightness	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/526.24 dpi	
+Red Nyquist Amp	****		0.04	0.20
+Green Nyquist Amp	****		0.04	0.20
+Blue Nyquist Amp	****		0.04	0.20
+Lightness Nyquist Amp	****		0.04	0.20
+Top Right - Horz	****			
+Red	****	0.90/533.91 dpi	0.95/565.73 dpi	
+Green	****	0.90/533.91 dpi	1.00/594.71 dpi	
+Blue	****	0.90/533.91 dpi	1.00/594.31 dpi	
+Lightness	****	0.90/533.91 dpi	0.97/574.92 dpi	
+Red Nyquist Amp	****		0.09	0.20
+Green Nyquist Amp	****		0.10	0.20
+Blue Nyquist Amp	****		0.10	0.20
+Lightness Nyquist Amp	****		0.09	0.20
+Bottom Left - Horz	***			
+Red	***	0.80/474.59 dpi 0.90/533.91 dpi	0.88/521.83 dpi	
+Green	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/526.28 dpi	
+Blue	***	0.80/474.59 dpi 0.90/533.91 dpi	0.89/530.14 dpi	
+Lightness	***	0.80/474.59 dpi 0.90/533.91 dpi	0.88/524.43 dpi	
+Red Nyquist Amp	****		0.03	0.20
+Green Nyquist Amp	****		0.04	0.20
+Blue Nyquist Amp	****		0.03	0.20
+Lightness Nyquist Amp	****		0.03	0.20
+Bottom Right - Horz	****			
+Red	****	0.90/533.91 dpi	0.99/586.41 dpi	
+Green	****	0.90/533.91 dpi	1.02/603.72 dpi	
+Blue	****	0.90/533.91 dpi	1.01/599.10 dpi	
+Lightness	****	0.90/533.91 dpi	1.01/601.90 dpi	
+Red Nyquist Amp	****		0.10	0.20
+Green Nyquist Amp	****		0.11	0.20
+Blue Nyquist Amp	****		0.11	0.20
+Lightness Nyquist Amp	****		0.11	0.20
+Max SFR Amplitude	****	0.00	1.00	1.00
+ 	 	 	 	 
+50% SFR				
+Center - Vert	****			
+Red	****	0.45	0.59	0.65
+Green	****	0.45	0.62	0.65
+Blue	****	0.45	0.63	0.65
+Lightness	****	0.45	0.61	0.65
+Top Left - Vert	****			
+Red	****	0.45	0.51	0.65
+Green	****	0.45	0.57	0.65
+Blue	****	0.45	0.58	0.65
+Lightness	****	0.45	0.56	0.65
+Top Right - Vert	****			
+Red	****	0.45	0.50	0.65
+Green	****	0.45	0.54	0.65
+Blue	****	0.45	0.56	0.65
+Lightness	****	0.45	0.53	0.65
+Bottom Left - Vert	****			
+Red	****	0.45	0.56	0.65
+Green	****	0.45	0.61	0.65
+Blue	****	0.45	0.61	0.65
+Lightness	****	0.45	0.60	0.65
+Bottom Right - Vert	****			
+Red	****	0.45	0.56	0.65
+Green	****	0.45	0.61	0.65
+Blue	****	0.45	0.60	0.65
+Lightness	****	0.45	0.60	0.65
+Center - Horz	****			
+Red	****	0.45	0.59	0.65
+Green	****	0.45	0.62	0.65
+Blue	****	0.45	0.63	0.65
+Lightness	****	0.45	0.61	0.65
+Top Left - Horz	****			
+Red	****	0.45	0.58	0.65
+Green	****	0.45	0.62	0.65
+Blue	****	0.45	0.63	0.65
+Lightness	****	0.45	0.60	0.65
+Top Right - Horz	****			
+Red	****	0.45	0.63	0.65
+Green	****	0.45	0.65	0.65
+Blue	***	0.35 0.45	0.66	0.75 0.65
+Lightness	****	0.45	0.65	0.65
+Bottom Left - Horz	****			
+Red	****	0.45	0.60	0.65
+Green	****	0.45	0.61	0.65
+Blue	****	0.45	0.62	0.65
+Lightness	****	0.45	0.61	0.65
+Bottom Right - Horz	***			
+Red	****	0.45	0.65	0.65
+Green	***	0.35 0.45	0.66	0.75 0.65
+Blue	***	0.35 0.45	0.67	0.75 0.65
+Lightness	***	0.35 0.45	0.66	0.75 0.65
+ 	 	 	 	 
+L* Noise				
+Patch No. 10	****	0.00	0.25	1.00
+Patch No. 11	****	0.00	0.27	1.00
+Patch No. 12	****	0.00	0.28	1.00
+Patch No. 13	****	0.00	0.27	1.00
+Patch No. 14	****	0.00	0.30	1.00
+Patch No. 15	****	0.00	0.30	1.00
+Patch No. 16	****	0.00	0.32	1.00
+Patch No. 17	****	0.00	0.34	1.00
+Patch No. 18	****	0.00	0.40	1.00
+Patch No. 19	****	0.00	0.54	1.00
+Patch No. 20	****	0.00	0.65	1.00
+Patch No. 21	****	0.00	0.45	1.00
+ 	 	 	 	 
+79.2%	4 Star Compliant
+*These values are omitted when determining PASS/FAIL for the owning category 
+
+Patch	L Aim	a Aim	b Aim	L Est.	a Est.	b Est.	R Aim	G Aim	B Aim	R Act.	G Act.	B Act.
+1	39.20	13.34	13.89	37.09	16.38	13.86	110.00	85.00	73.00	107.03	78.05	68.19
+2	65.86	18.70	18.53	65.24	19.63	15.97	186.00	146.00	128.00	184.11	143.64	130.40
+3	49.97	-4.08	-22.87	49.16	-4.14	-22.91	102.00	121.00	155.00	99.23	119.32	152.76
+4	43.74	-13.26	22.64	41.30	-14.13	23.64	97.00	109.00	69.00	90.53	103.30	62.18
+5	55.67	10.54	-24.71	55.98	7.57	-22.19	132.00	127.00	173.00	130.68	129.72	169.83
+6	70.94	-33.69	-0.27	71.04	-32.70	1.05	130.00	189.00	172.00	131.63	189.02	169.97
+7	63.05	34.76	57.69	60.29	38.87	52.04	201.00	125.00	55.00	196.09	114.36	59.57
+8	41.03	10.11	-45.64	41.41	6.52	-42.09	79.00	94.00	169.00	78.60	96.61	163.69
+9	52.24	49.02	17.08	52.23	49.08	15.60	178.00	84.00	98.00	177.39	84.65	100.17
+10	98.00	-0.80	2.01	96.99	0.40	3.57	250.00	249.00	245.00	248.24	245.60	239.21
+11	92.83	-0.60	1.64	92.20	0.47	2.40	234.00	234.00	231.00	233.62	231.48	227.37
+12	88.17	-0.89	0.98	87.74	0.56	1.43	220.00	220.00	218.00	220.33	218.53	216.31
+13	82.97	-0.91	0.65	82.65	0.44	0.90	205.00	206.00	204.00	205.39	204.12	202.79
+14	72.68	-1.53	0.41	72.62	0.09	0.22	176.00	177.00	176.00	176.81	176.54	176.23
+15	62.70	-1.34	0.07	62.44	0.13	-0.09	149.00	151.00	150.00	149.65	149.47	149.69
+16	49.31	-0.99	-0.16	49.54	0.20	-0.16	116.00	117.00	117.00	117.19	116.94	117.29
+17	38.76	-0.92	-0.04	39.81	0.27	-0.32	91.00	92.00	92.00	94.13	93.86	94.47
+18	28.25	-0.43	-0.08	28.24	0.38	-0.21	68.00	69.00	69.00	68.74	68.29	68.74
+19	16.53	-0.62	-0.80	17.38	-0.03	-1.65	44.00	45.00	46.00	46.06	46.69	48.65
+20	11.79	-0.26	-0.75	8.70	0.35	-0.63	36.00	36.00	37.00	30.99	30.79	31.60
+21	5.08	0.25	1.13	4.70	0.51	1.07	25.00	24.00	23.00	24.23	23.05	21.73
+22	31.34	23.58	-21.24	29.83	20.12	-20.82	89.00	62.00	106.00	82.42	61.45	101.56
+23	72.87	-23.69	57.35	69.31	-21.97	50.32	168.00	188.00	76.00	158.38	177.94	80.51
+24	72.90	18.94	68.15	69.47	20.44	60.10	215.00	163.00	57.00	205.52	152.93	64.81
+25	31.20	12.95	-48.03	30.22	8.26	-45.20	56.00	71.00	146.00	50.19	71.21	139.18
+26	55.87	-39.80	31.22	53.49	-35.97	28.18	99.00	150.00	82.00	96.79	142.10	81.26
+27	43.28	51.48	29.34	43.15	49.70	26.81	157.00	58.00	60.00	154.48	60.33	63.30
+28	82.55	3.18	79.70	78.59	6.03	68.96	229.00	200.00	54.00	218.48	187.27	68.45
+29	52.74	49.54	-13.55	53.49	48.19	-14.42	172.00	87.00	148.00	171.88	90.66	150.93
+30	51.24	-27.11	-28.33	51.83	-23.96	-30.11	66.00	135.00	167.00	70.24	135.29	171.63
+
+EXIF Data:
+Tag Name	Tag Value
+Image Width	6943
+Image Height	9726
+Bits Per Sample	16 16 16
+Compression	Uncompressed
+Photometric Interpretation	RGB
+Make	Phase One
+Camera Model Name	iXH 150MP
+Strip Offsets	Binary data 488 bytes, use -b option to extract
+Orientation	Horizontal normal
+Samples Per Pixel	3
+Rows Per Strip	192
+Strip Byte Counts	Binary data 407 bytes, use -b option to extract
+X Resolution	600
+Y Resolution	600
+Planar Configuration	Chunky
+Resolution Unit	inches
+Software	Capture One Macintosh
+Exposure Time	1/6
+F Number	8.0
+Exposure Program	Program AE
+ISO	100
+Exif Version	0230
+Date/Time Original	2024:05:16 09:27:30
+Create Date	2024:05:16 09:27:30
+Shutter Speed Value	1/6
+Aperture Value	8.0
+Exposure Compensation	0
+Light Source	Flash
+Focal Length	72.0 mm
+Exif Image Width	6943
+Exif Image Height	9726
+Focal Plane X Resolution	2659.574463
+Focal Plane Y Resolution	2659.574463
+Focal Plane Resolution Unit	cm
+Sensing Method	One-chip color area
+File Source	Digital Camera
+Scene Type	Directly photographed
+White Balance	Unknown 4
+Image Unique ID	000000004E4130333030383800000934
+Serial Number	NA030088
+Lens Info	72mm f/5.599992889-21.99997864
+Lens Model	Phase One RS-72mm MkII/iXG
+Lens Serial Number	UL001288
+Subfile Type	Reduced-resolution image
+Image Width	114
+Image Height	160
+Bits Per Sample	8 8 8
+Compression	Uncompressed
+Photometric Interpretation	RGB
+Strip Offsets	405172882
+Samples Per Pixel	3
+Rows Per Strip	160
+Strip Byte Counts	54720
+Planar Configuration	Chunky
+Thumbnail TIFF	Binary data 54936 bytes, use -b option to extract
+
